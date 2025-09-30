@@ -1,5 +1,3 @@
-I haphazardly fabricate computer instructions
-
 <p>
   <picture><img src="https://img.shields.io/badge/Discord-%40calvinknt-blue?style=flat&logo=discord&logoColor=white"></picture>
   <a href="https://youtube.com/@calvinkNT" target="_blank"><img src="https://img.shields.io/badge/YouTube-%40calvinkNT-red?style=flat&logo=youtube&logoColor=white"></a>
